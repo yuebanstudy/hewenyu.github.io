@@ -69,5 +69,5 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: http://git.coding.net/yueban_hwy/hexo-blog.git
+  repository: https://github.com/yuebanstudy/yuebanstudy.github.io.git
   branch: master
