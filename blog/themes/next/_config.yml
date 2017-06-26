@@ -494,6 +494,12 @@ local_search:
 exturl: false
 
 
+reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+wechatpay: /uploads/wechat.png
+alipay: /uploads/alipay.png
+
+
+
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
 #! UNLESS YOU KNOW WHAT YOU ARE DOING
